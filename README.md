@@ -14,7 +14,8 @@
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
 
 
-<img align="right" alt="GIF" width="320" height="205"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/25c93289-0576-4645-bc48-e828abec9740/dc7xodf-fd99d4af-8d61-4bdb-b3d4-ba8f913395a5.gif" />
+<img align="right" alt="GIF" width="231" height="219"  src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" />
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Luma8&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Luma8">
