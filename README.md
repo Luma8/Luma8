@@ -1,6 +1,6 @@
 ## Hi 👋, I'm  Lucas 🐧
 
-##### Fullstack🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
+##### Front-end🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
 ### About Me!
 ##### 
 * 👾 I'm adventuring with java script and C#.
