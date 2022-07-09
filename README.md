@@ -22,7 +22,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Luma8&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Luma8">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luma8&count_private=true&theme=radical" alt="Luma8" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luma8&count_private=true&theme=radical" alt="Luma8" />
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ----
