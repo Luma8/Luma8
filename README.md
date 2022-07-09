@@ -3,6 +3,8 @@
 ##### Front-end🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
 ### About Me!
 ##### 
+hey 🐧, My name is Lucas Matheus and I'm a Web/Mobile and Game developer, I work with React Js / React Native / VueJs and .Net, I like to develop things for the beginner developer community and learn from the experienced developers every day It's a new day to learn something, and pass this knowledge on to other people!!
+
 * 👾 I'm adventuring with java script and C#.
 * 🖥 working with freelancer.
 ##### 
