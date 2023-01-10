@@ -18,31 +18,3 @@ hey 🐧, My name is Lucas Matheus and I'm a Web/Mobile and Game developer, I wo
 
 
 
-<img align="right" alt="GIF" width="231" height="219"  src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" />
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Luma8&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Luma8">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luma8&count_private=true&theme=radical" alt="Luma8" />
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
-
-hey look this: https://roadmap.sh
-
-
-<!--
-**Luma8/Luma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
