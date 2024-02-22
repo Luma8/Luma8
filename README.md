@@ -1,6 +1,6 @@
 ## Hi 👋, I'm  Lucas 🐧
 
-##### Front-end🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
+##### Fullstack-dev🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
 ### About Me!
 ##### 
 👋 Hello there! I'm a 24-year-old full-stack developer who's passionate about crafting digital experiences. Currently diving into the world of Java, my tech toolkit includes React, React Native, and Node.js.
