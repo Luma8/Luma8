@@ -3,10 +3,18 @@
 ##### Front-end🚩| Web/MobDev👥 | GameDev🎮 Enthusiast 👻
 ### About Me!
 ##### 
-hey 🐧, My name is Lucas Matheus and I'm a Web/Mobile and Game developer, I work with React Js / React Native / VueJs and .Net, I like to develop things for the beginner developer community and learn from the experienced developers every day It's a new day to learn something, and pass this knowledge on to other people!!
+👋 Hello there! I'm a 24-year-old full-stack developer who's passionate about crafting digital experiences. Currently diving into the world of Java, my tech toolkit includes React, React Native, and Node.js.
 
-* 👾 I'm adventuring with javascript and C#.
-* 🖥 working with freelancer.
+🚀 Professionally, I thrive in the realm of full-stack development, where I bring ideas to life using cutting-edge technologies. I enjoy the versatility of working on both frontend and backend aspects, ensuring seamless and dynamic user interactions.
+
+🎮 Beyond coding for work, I find joy in the world of gaming. As a hobbyist game developer, I create immersive experiences using Unity. Whether it's a side project or just for fun, game development serves as my creative escape.
+
+🎨 Beyond the realms of coding and gaming, I'm also a digital artist. On my Instagram, I showcase my love for creating visually captivating digital drawings. It's my way of bringing imagination to life through the stroke of a digital pen.
+
+🌐 Continuous learning is at the core of my journey. The ever-evolving tech landscape keeps me engaged, and I'm always seeking opportunities to enhance my skills and explore new horizons.
+
+Let's code, create, game, and draw! 🚀🎮🎨✨
+
 ##### 
 ### Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
